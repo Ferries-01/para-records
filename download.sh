@@ -15,3 +15,4 @@ python3 main.py --url https://www.ipc-services.org/sdms/web/ranking/at/excel/typ
 python3 main.py --url https://www.ipc-services.org/sdms/web/ranking/at/excel/type/OCR/list/1091/category/out --output leads/oceania.csv --code AL
 python3 main.py --url https://www.ipc-services.org/sdms/web/record/at/excel/type/PR/category/out/age/senior --output records/paralympics.csv --code PR
 python3 main.py --url https://www.ipc-services.org/sdms/web/record/at/excel/type/CR/category/out/age/senior --output records/championship.csv --code CR
+python3 main.py --url https://www.ipc-services.org/sdms/web/record/at/excel/type/ECR/category/out/age/senior --output records/europeanchampionship.csv --code CR
