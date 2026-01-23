@@ -55,7 +55,7 @@ AM;2;MT34;400;0:48.06;;Smeenk;Austin;CAN;1997;FRA;Paris;2024-06-14;Male;Outdoor
 AM;3;MT35;400;1:01.82;;Bordignon;Fabio;BRA;1992;BRA;São Paulo;2018-08-04;Male;Outdoor
 AM;3;MT36;400;0:53.60;;Chavez;Alexis Sebastian;ARG;2002;FRA;Paris;2024-09-03;Male;Outdoor
 AM;2;MT37;400;0:50.26;;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-09-01;Male;Outdoor
-AM;2;MT38;400;0:48.26;;Blackwell;Jaydin;USA;2004;COL;Cali;2025-05-17;Male;Outdoor
+AM;2;MT38;400;0:48.00;;Blackwell;Jaydin;USA;2004;IND;New Delhi;2025-10-01;Male;Outdoor
 AM;3;MT44;400;0:56.03;;Pereira Santos;Romildo;BRA;1999;BRA;São Paulo;2019-04-26;Male;Outdoor
 AM;3;MT45;400;0:49.21;;Nascimento;Yohansson;BRA;1987;GBR;London;2012-09-04;Male;Outdoor
 AM;3;MT46;400;0:47.87;;de Moraes;Thomaz Ruan;BRA;2001;JPN;Tokyo;2021-09-04;Male;Outdoor
@@ -163,7 +163,7 @@ AM;3;MF34;KUG;12.01;;Valencia;Mauricio;COL;1987;COL;Cali;2025-05-17;Male;Outdoor
 AM;3;MF35;KUG;16.11;;Urra;Hernan Emanuel;ARG;1996;FRA;Paris;2024-09-05;Male;Outdoor
 AM;2;MF36;KUG;15.82;;Ruiz Castro;Jose Roman;MEX;1988;FRA;Paris;2023-07-13;Male;Outdoor
 AM;2;MF37;KUG;14.89;;Lopez Valenzuela;Luis Carlos;MEX;1999;FRA;Paris;2025-06-03;Male;Outdoor
-AM;3;MF38;KUG;19.22;;Lemos Rivas;Jose Gregorio;COL;1991;COL;Cali;2025-05-19;Male;Outdoor
+AM;3;MF38;KUG;20.38;;Moreno Denis;Levin;COL;1989;IND;New Delhi;2025-10-04;Male;Outdoor
 AM;2;MF40;KUG;9.81;;Sanchez Vega;Ruben Nahum;MEX;2001;FRA;Paris;2025-06-03;Male;Outdoor
 AM;2;MF41;KUG;13.88;;Landry;Hagan;USA;1994;JPN;Tokyo;2021-08-30;Male;Outdoor
 AM;3;MF42;KUG;14.93;;Roberto Floriani;Edenilson;BRA;1990;BRA;Sao Paulo;2025-04-26;Male;Outdoor
@@ -211,7 +211,7 @@ AM;2;MF37;SPE;46.47;;Enriquez Gonzalez;Bryan Leonel;MEX;1998;MEX;San Luis Potos�
 AM;3;MF38;SPE;63.81;;Lemos Rivas;Jose Gregorio;COL;1991;FRA;Paris;2024-08-30;Male;Outdoor
 AM;3;MF40;SPE;33.13;;Porfirio;Jair;BRA;1994;BRA;São Paulo;2019-04-26;Male;Outdoor
 AM;2;MF41;SPE;38.54;;Castro Martinez;Ever Rene;CUB;1993;TUN;Tunis;2025-06-16;Male;Outdoor
-AM;3;MF42;SPE;59.19;;Roberto Floriani;Edenilson;BRA;1990;BRA;Sao Paulo;2022-06-18;Male;Outdoor
+AM;3;MF42;SPE;62.36;;Roberto Floriani;Edenilson;BRA;1990;IND;New Delhi;2025-09-30;Male;Outdoor
 AM;4;MF43;SPE;57.61;;Stewart;Akeem;TTO;1992;GBR;London;2017-07-18;Male;Outdoor
 AM;3;MF44;SPE;59.24;;Jefferson de Lima;Francisco;BRA;1991;BRA;Sao Paulo;2022-06-18;Male;Outdoor
 AM;2;MF46;SPE;66.14;;Varona Gonzalez;Guillermo;CUB;1995;FRA;Paris;2024-09-03;Male;Outdoor
@@ -260,12 +260,12 @@ AM;2;WT34;200;0:33.41;-0.1;Houston;Eva;USA;2001;SUI;Nottwil;2024-06-06;Female;Ou
 AM;2;WT35;200;0:34.03;-2.2;McLachlan;Virginia;CAN;1992;FRA;Lyon;2013-07-27;Female;Outdoor
 AM;3;WT36;200;0:29.89;-0.3;Rotela;Araceli;ARG;2004;FRA;Paris;2024-09-01;Female;Outdoor
 AM;3;WT37;200;0:26.42;1.3;Palomeque Moreno;Karen Tatiana;COL;1994;FRA;Paris;2023-07-17;Female;Outdoor
-AM;3;WT38;200;0:25.07;1.3;Palomeque Moreno;Karen Tatiana;COL;1994;COL;Cali;2025-05-18;Female;Outdoor
+AM;3;WT38;200;0:24.98;0.2;Palomeque Moreno;Karen Tatiana;COL;1994;IND;New Delhi;2025-10-02;Female;Outdoor
 AM;2;WT43;200;0:28.52;1.2;Cowart;Shea;USA;1979;AUS;Sydney;2000-10-23;Female;Outdoor
 AM;2;WT44;200;0:27.39;0.3;Carey;Annie;USA;2004;FRA;Paris;2025-06-03;Female;Outdoor
 AM;2;WT45;200;0:29.31;0.5;Schasfoort;Nelya;USA;2002;SUI;Nottwil;2019-08-01;Female;Outdoor
-AM;2;WT46;200;0:24.45;-0.6;Castillo Castillo;Yunidis;CUB;1987;GBR;London;2012-09-01;Female;Outdoor
-AM;2;WT47;200;0:24.45;-0.6;Castillo Castillo;Yunidis;CUB;1987;GBR;London;2012-09-01;Female;Outdoor
+AM;3;WT46;200;0:24.34;0.2;Rodriguez;Kiara;ECU;2002;IND;New Delhi;2025-10-05;Female;Outdoor
+AM;3;WT47;200;0:24.34;0.2;Rodriguez;Kiara;ECU;2002;IND;New Delhi;2025-10-05;Female;Outdoor
 AM;2;WT51;200;0:44.17;1.9;Mitchell;Cassie;USA;1981;USA;St. Paul, Minnesota;2015-06-20;Female;Outdoor
 AM;2;WT52;200;0:33.19;1.6;Stilwell;Michelle;CAN;1974;AUS;Canberra;2013-01-21;Female;Outdoor
 AM;2;WT53;200;0:28.93;1.3;Galli;Jessica;USA;1983;USA;Indianapolis, Indiana;2012-07-01;Female;Outdoor
@@ -310,7 +310,7 @@ AM;2;WT54;800;1:42.72;;McFadden;Tatyana;USA;1989;SUI;Arbon;2015-06-04;Female;Out
 AM;2;WT11;1K5;4:37.40;;Rodriguez Saavedra;Monica Olivia;MEX;1989;JPN;Tokyo;2021-08-30;Female;Outdoor
 AM;2;WT12;1K5;4:39.63;;Velasco Maldonado;Daniela Eugenia;MEX;1995;PER;Lima;2019-08-25;Female;Outdoor
 AM;2;WT13;1K5;4:05.27;;Runyan;Marla;USA;;ESP;Seville;1999-01-01;Female;Outdoor
-AM;3;WT20;1K5;4:24.33;;Da Silva Barros;Antonia Keyla;BRA;1994;BRA;Sao Paulo;2025-08-03;Female;Outdoor
+AM;3;WT20;1K5;4:19.22;;Da Silva Barros;Antonia Keyla;BRA;1994;IND;New Delhi;2025-10-02;Female;Outdoor
 AM;2;WT34;1K5;4:02.48;;Houston;Eva;USA;2001;SUI;Nottwil;2024-06-09;Female;Outdoor
 AM;2;WT36;1K5;6:26.30;;Suchan;Susan;CAN;;CAN;Saint John;1995-08-11;Female;Outdoor
 AM;2;WT51;1K5;6:25.19;;Mitchell;Cassie;USA;1981;USA;Tempe;2017-05-13;Female;Outdoor
@@ -338,7 +338,7 @@ AM;2;WT36;WEI;3.27;0.3;Gonzalez Magallanes;Luz Maria;MEX;2003;MEX;Xalapa;2023-04
 AM;2;WT37;WEI;5.08;0.1;Roberts;Jaleen;USA;1998;ITA;Grosseto;2019-06-08;Female;Outdoor
 AM;3;WT38;WEI;5.28;0.1;Mejia Morales;Angie Nicoll;COL;2009;COL;Cali;2025-05-17;Female;Outdoor
 AM;3;WT42;WEI;4.13;1.7;Da Silva;Ana Claudia Maria;BRA;1987;BRA;Sao Paulo;2023-03-26;Female;Outdoor
-AM;2;WT44;WEI;5.19;0.2;Carey;Annie;USA;;USA;Eugene;2025-08-02;Female;Outdoor
+AM;2;WT44;WEI;5.2;-0.8;Carey;Annie;USA;;IND;New Delhi;2025-10-03;Female;Outdoor
 AM;2;WT45;WEI;4.29;1.7;Schasfoort;Nelya;USA;2002;SUI;Nottwil;2019-08-03;Female;Outdoor
 AM;3;WT46;WEI;6.47;-0.1;Rodriguez;Kiara;ECU;2002;COL;Cali;2025-05-16;Female;Outdoor
 AM;3;WT47;WEI;6.47;-0.1;Rodriguez;Kiara;ECU;2002;COL;Cali;2025-05-16;Female;Outdoor
@@ -349,7 +349,7 @@ AM;2;WF11;KUG;10.99;;Ljubisic;Ljiljana;CAN;1960;USA;Atlanta;1996-08-17;Female;Ou
 AM;2;WF12;KUG;13.72;;Valenzuela Alvarez;Rebeca;MEX;1992;JPN;Tokyo;2021-09-03;Female;Outdoor
 AM;3;WF13;KUG;9.81;;Almada;Mariela;ARG;1980;GRE;Athens;2004-09-25;Female;Outdoor
 AM;3;WF20;KUG;14.39;;Mendes Sanchez;Poleth Isamar;ECU;1996;JPN;Tokyo;2021-08-29;Female;Outdoor
-AM;3;WF32;KUG;8.18;;Brito Oliveira;Wanna Helena;BRA;1996;BRA;Sao Paulo;2025-04-23;Female;Outdoor
+AM;3;WF32;KUG;8.49;;Brito Oliveira;Wanna Helena;BRA;1996;IND;New Delhi;2025-10-02;Female;Outdoor
 AM;2;WF33;KUG;8.23;;Cota Vera;Gilda Guadalupe;MEX;1989;MEX;Xalapa;2024-04-06;Female;Outdoor
 AM;2;WF34;KUG;7.55;;Grauer;Beth;USA;1983;USA;Miramar;2024-07-18;Female;Outdoor
 AM;3;WF35;KUG;9.47;;Oliveira Da Nobrega;Marivana;BRA;1990;USA;Tempe;2019-05-25;Female;Outdoor
